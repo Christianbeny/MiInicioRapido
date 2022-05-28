@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiInicioRapido</string>
+    <string name="facebook_app_id">974777616554766</string>
+    <string name="fb_login_protocol_scheme">fb974777616554766</string>
+    <string name="facebook_client_token">125e2f2294a77d42b8b7750ca23aeeef</string>
+</resources>
